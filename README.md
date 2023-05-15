@@ -48,6 +48,7 @@ Keep your code simple. You have all the tools you need to effectively construct 
 Have fun! This medium is prime for easter eggs and (class appropriate) inside jokes.
 
 
+
 ### Planning:
     - ShipWrecked - The Game - The Sequel
     -player wakes up on deserted island, with shipwreck ramains strewn about.
@@ -96,3 +97,12 @@ Years after falling off of a cruise in the bahamas, you decide its time to give 
     -gather materials for the burn
     -(???)
     -profit
+
+
+
+
+
+
+
+
+
