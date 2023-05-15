@@ -46,3 +46,53 @@ Think about the difference between `p` and `puts`. Using `p` in development is h
 Keep your code simple. You have all the tools you need to effectively construct the game. This is an exercise in organization, planning, and creativity.
 
 Have fun! This medium is prime for easter eggs and (class appropriate) inside jokes.
+
+
+### Planning:
+    - ShipWrecked - The Game - The Sequel
+    -player wakes up on deserted island, with shipwreck ramains strewn about.
+        -we can code for every item we want them to find - keyword explore?
+    -Get the player to move towards shelter - inland
+    -get the player to build a campsite
+    -get the player to build a signal fire
+    -"Boat has appeared on the horizon. You're gonna be alright."
+
+    Stretch:
+        find ways to lose game
+
+### Story Behind the game
+Years after falling off of a cruise in the bahamas, you decide its time to give it another shot. You book a cruise to Alaska, and wouldnt you know it, the boat hits an iceberg and sinks straight to the ground. The last think you remember is falling off the side of the boat with your fiance, Rose. You wake up alone on a deserted beach, with remnants from the cruise scattered around you. 
+
+### beached items
+-luggage
+    -survival kit - medical supplies, flint, hunting knife, 
+-dresser
+    -alcohol, clean (wet) clothes
+-wooden planks(?)
+-rose's body - a locket with their couple-picture
+
+### island comp
+-inhospitable looking passage to the east
+    -if they walk to the east, they get stuck
+-light foliage with tall, ample canopy's to the west
+    -if they walk to the wwest, they find shelter 
+-sounds of a waterfall somwhere towards the middle
+    -"doesn't look like theres a direct path"
+
+### when they find shelter
+-explore shelter
+    -finds place for a bed
+    -finds some maybe edible berries in the surrounding brush
+    -finds rocks that could be suitable to make a fire
+    -finds a path to the waterfall
+    -find a football names chuck
+
+-go to sleep
+    -miss the search boat and die
+
+### how to win
+- build any fire
+    -get the idea to build a signal fire
+    -gather materials for the burn
+    -(???)
+    -profit

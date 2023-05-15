@@ -1,1 +1,2 @@
 # Text-based Game Challenge
+p 'Years after falling off of a cruise in the bahamas, you decide its time to give it another shot. You book a cruise to Alaska, and wouldnt you know it, the boat hits an iceberg and sinks straight to the ground. The last think you remember is falling off the side of the boat with your fiance, Rose. You wake up alone on a deserted beach, with remnants from the cruise scattered around you.' 
